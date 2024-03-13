@@ -1,0 +1,68 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">WorknTimeApp</string>
+
+    <!-- Placeholder Text -->
+    <string name="enter">Enter</string>
+    <string name="time1">8:00am</string>
+    <string name="time2">5:00pm</string>
+    <string name="date_placeholder">20/02/2024</string>
+    <string name="enterpalce">Select Place</string>
+    <string name="enterlocation">Enter Location</string>
+    <string name="pphour">Payment per Hour</string>
+
+
+    <!-- Home Page - Upcoming Task -->
+    <string name="upcoming_task">Upcoming Task</string>
+    <string name="greetings">Good Morning</string>
+
+    <!-- Form Labels -->
+    <string name="place">Place</string>
+    <string name="start">Start Time</string>
+    <string name="end">End Time</string>
+    <string name="rate">Rate</string>
+
+    <!-- Upcoming Task Categories -->
+    <string name="restaurant">Restaurant</string>
+    <string name="invigilations">Invigilations</string>
+    <string name="delivery">Delivery</string>
+
+    <!--  Button  -->
+    <string name="Bdate">07 March</string>
+    <string name="user_name">Thilina Lakshan</string>
+    <string name="View_places">Places</string>
+    <string name="view_salary">Salary</string>
+    <string name="view_all_events">Events</string>
+    <string name="topic_calculate">Calculate</string>
+    <string name="save">Save</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="amount_fill">Rs.</string>
+    <string name="amount">Amount:</string>
+    <string name="date">Date</string>
+    <string name="topic_addnewplace">Add New Place</string>
+    <string name="type_place_name_placeholder">Type Place Name</string>
+    <string name="location">Location</string>
+    <string name="enter_location_placeholder">Enter location</string>
+    <string name="Content_desc">Img</string>
+    <string name="rec_date1">15 th march</string>
+    <string name="rec_salary1">At Uber 16020/=</string>
+    <string name="rec_date2">15 th march</string>
+    <string name="rec_salary2">At KFC 13000/=</string>
+    <string name="topic_records">My Records</string>
+    <string name="rec_date3">07 th march</string>
+    <string name="rec_salary3">At Acbt 5500/=</string>
+    <string name="btn_add_new">Add New</string>
+    <string name="profile">Profile</string>
+    <string name="user_email">alex500@gmail.com</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="my_events">My Events</string>
+    <string name="my_places">My Places</string>
+    <string name="home_quote">Let’s make a habits together 🙌</string>
+    <string name="add_event">Add Event</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Type Name Here</string>
+
+
+</resources>
