@@ -17,7 +17,7 @@ class Home : Fragment() {
         }
 
     }
-
+//hrkklk
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
